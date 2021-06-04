@@ -32,6 +32,7 @@ namespace TeacherData
                 // Create a new file    
                 using (StreamWriter fs = new StreamWriter(fileName)) 
                 {
+                    Console.WriteLine("\nThe following is information for teacher ID(" + T_IDNumber + ")");
                     // Add some text to file    
                     fs.WriteLine("The ID of the teacher is: " + T_IDNumber);
                     fs.WriteLine("The name of the teacher is: " + T_Name);
