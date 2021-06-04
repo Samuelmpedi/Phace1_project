@@ -1,0 +1,11 @@
+C:\Users\KABELO\Documents\LocalRepo\Phace1_project\TeacherData\TeacherData\bin\Debug\netcoreapp3.1\TeacherData.exe
+C:\Users\KABELO\Documents\LocalRepo\Phace1_project\TeacherData\TeacherData\bin\Debug\netcoreapp3.1\TeacherData.deps.json
+C:\Users\KABELO\Documents\LocalRepo\Phace1_project\TeacherData\TeacherData\bin\Debug\netcoreapp3.1\TeacherData.runtimeconfig.json
+C:\Users\KABELO\Documents\LocalRepo\Phace1_project\TeacherData\TeacherData\bin\Debug\netcoreapp3.1\TeacherData.runtimeconfig.dev.json
+C:\Users\KABELO\Documents\LocalRepo\Phace1_project\TeacherData\TeacherData\bin\Debug\netcoreapp3.1\TeacherData.dll
+C:\Users\KABELO\Documents\LocalRepo\Phace1_project\TeacherData\TeacherData\bin\Debug\netcoreapp3.1\TeacherData.pdb
+C:\Users\KABELO\Documents\LocalRepo\Phace1_project\TeacherData\TeacherData\obj\Debug\netcoreapp3.1\TeacherData.csprojAssemblyReference.cache
+C:\Users\KABELO\Documents\LocalRepo\Phace1_project\TeacherData\TeacherData\obj\Debug\netcoreapp3.1\TeacherData.AssemblyInfoInputs.cache
+C:\Users\KABELO\Documents\LocalRepo\Phace1_project\TeacherData\TeacherData\obj\Debug\netcoreapp3.1\TeacherData.AssemblyInfo.cs
+C:\Users\KABELO\Documents\LocalRepo\Phace1_project\TeacherData\TeacherData\obj\Debug\netcoreapp3.1\TeacherData.dll
+C:\Users\KABELO\Documents\LocalRepo\Phace1_project\TeacherData\TeacherData\obj\Debug\netcoreapp3.1\TeacherData.pdb
