@@ -1,0 +1,4 @@
+
+The ID of the teacher is: 1
+The name of the teacher is: mom
+The class and section of the teacher is: 2
