@@ -1,3 +1,3 @@
 The ID of the teacher is: 1111
-The name of the teacher is: samuel mpedi
-The class and section of the teacher is: 5th class section 2
+The name of the teacher is: Samuel Mpedi
+The class and section of the teacher is: 5th Class section 
